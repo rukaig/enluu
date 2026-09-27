@@ -1,0 +1,19 @@
+{
+  "name": "vampire-love-site",
+  "version": "1.0.0",
+  "description": "A static vampire-love gift site with a photo vault, familiar chooser, and flower garden.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": [
+    "vampire",
+    "love",
+    "appreciation",
+    "gallery"
+  ],
+  "license": "MIT"
+}
